@@ -1,0 +1,6 @@
+  - matplotlib=3.7.2=py311haa95532_0
+  - numpy=1.25.2=py311hdab7c0b_0
+  - pandas=2.0.3=py311hf62ec03_0
+  - streamlit=1.24.1=py311haa95532_0
+
+
