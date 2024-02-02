@@ -1,5 +1,17 @@
-  - matplotlib=3.7.1
-  - numpy=1.25.2=py311hdab7c0b_0
-  - pandas=2.0.3=py311hf62ec03_0
-  - streamlit=1.23.1=py311haa95532_0
-  
+ipython==7.22.0
+pylint==2.7.2
+autopep8==1.5.6
+scrapy==2.4.1
+selenium==3.141.0
+scrapy-selenium==0.0.7
+pymongo==3.11.3
+pillow==8.2.0
+dnspython==1.16.0
+pyopenssl==22.0.0
+cryptography==38.0.1
+parsel==1.7.0
+urllib3==1.26.15
+twisted==22.10.0
+shub
+
+
